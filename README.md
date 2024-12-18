@@ -1,6 +1,6 @@
 # LinkGenerator
 ![alt text](image-1.png)
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## Приложение (черновой вариант)
 - Приложение симулирует поведение Outlook и генерирует ссылку.
